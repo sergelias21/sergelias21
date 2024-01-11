@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergelias21
+- 👋 Hi, I’m Serge Elyashevich aka @sergelias21
 - 👀 I’m software engineer in <a href="https://cyfrania.com/">Cyfrania</a>
 - 🌱 I’m currently learning GitHub
 - 💞️ I love reading and riding my bicycle
